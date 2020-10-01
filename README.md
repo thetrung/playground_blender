@@ -1,4 +1,4 @@
-### playground_blender
+### A Beginner Guide to Blender
 
 **1. All Modes in Blender**
 
