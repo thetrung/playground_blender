@@ -28,3 +28,21 @@ Open Menu by `Space` + `Shortcut` listed below :
   - `Extrude` is most popular to add new shape over a face
   - `LoopCut` to cut any face of the object into half 
   - ... And More
+
+**4. Shading Tab to color/texturize Object**
+
+- Switch to Shading Tab by :
+
+![Shading Tab](https://github.com/thetrung/playground_blender/blob/master/Shading_tab.png)
+
+- Change Material Color 
+
+![Change Mat Color](https://github.com/thetrung/playground_blender/blob/master/Change_Material_Color.png)
+
+- Add Texture by clicking on menu
+
+![Add Texture](https://github.com/thetrung/playground_blender/blob/master/Image_Texture.png)
+
+- Then pick texture by `Open` and Connect yellow dot to the main node
+
+![Connect Texture](https://github.com/thetrung/playground_blender/blob/master/Image_Texture_Node.png)
